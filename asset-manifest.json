@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/krystiano13.github.io/reactDeployTest/static/css/main.a1f8ba2b.chunk.css",
-    "main.js": "/krystiano13.github.io/reactDeployTest/static/js/main.68e5e85d.chunk.js",
-    "main.js.map": "/krystiano13.github.io/reactDeployTest/static/js/main.68e5e85d.chunk.js.map",
-    "runtime-main.js": "/krystiano13.github.io/reactDeployTest/static/js/runtime-main.74553ddd.js",
-    "runtime-main.js.map": "/krystiano13.github.io/reactDeployTest/static/js/runtime-main.74553ddd.js.map",
-    "static/js/2.0c06fb82.chunk.js": "/krystiano13.github.io/reactDeployTest/static/js/2.0c06fb82.chunk.js",
-    "static/js/2.0c06fb82.chunk.js.map": "/krystiano13.github.io/reactDeployTest/static/js/2.0c06fb82.chunk.js.map",
-    "index.html": "/krystiano13.github.io/reactDeployTest/index.html",
-    "precache-manifest.c628319743d20bad6e0213eb0ebe93de.js": "/krystiano13.github.io/reactDeployTest/precache-manifest.c628319743d20bad6e0213eb0ebe93de.js",
-    "service-worker.js": "/krystiano13.github.io/reactDeployTest/service-worker.js",
-    "static/css/main.a1f8ba2b.chunk.css.map": "/krystiano13.github.io/reactDeployTest/static/css/main.a1f8ba2b.chunk.css.map",
-    "static/js/2.0c06fb82.chunk.js.LICENSE.txt": "/krystiano13.github.io/reactDeployTest/static/js/2.0c06fb82.chunk.js.LICENSE.txt",
-    "static/media/logo.svg": "/krystiano13.github.io/reactDeployTest/static/media/logo.5d5d9eef.svg"
+    "main.css": "/reactDeployTest/static/css/main.a1f8ba2b.chunk.css",
+    "main.js": "/reactDeployTest/static/js/main.bc320e61.chunk.js",
+    "main.js.map": "/reactDeployTest/static/js/main.bc320e61.chunk.js.map",
+    "runtime-main.js": "/reactDeployTest/static/js/runtime-main.70c24dc4.js",
+    "runtime-main.js.map": "/reactDeployTest/static/js/runtime-main.70c24dc4.js.map",
+    "static/js/2.0c06fb82.chunk.js": "/reactDeployTest/static/js/2.0c06fb82.chunk.js",
+    "static/js/2.0c06fb82.chunk.js.map": "/reactDeployTest/static/js/2.0c06fb82.chunk.js.map",
+    "index.html": "/reactDeployTest/index.html",
+    "precache-manifest.1f8018cef2090be8a45abc3c25d6834f.js": "/reactDeployTest/precache-manifest.1f8018cef2090be8a45abc3c25d6834f.js",
+    "service-worker.js": "/reactDeployTest/service-worker.js",
+    "static/css/main.a1f8ba2b.chunk.css.map": "/reactDeployTest/static/css/main.a1f8ba2b.chunk.css.map",
+    "static/js/2.0c06fb82.chunk.js.LICENSE.txt": "/reactDeployTest/static/js/2.0c06fb82.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/reactDeployTest/static/media/logo.5d5d9eef.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.74553ddd.js",
+    "static/js/runtime-main.70c24dc4.js",
     "static/js/2.0c06fb82.chunk.js",
     "static/css/main.a1f8ba2b.chunk.css",
-    "static/js/main.68e5e85d.chunk.js"
+    "static/js/main.bc320e61.chunk.js"
   ]
 }
